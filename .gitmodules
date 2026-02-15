@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/dbverse-org/dbverse-org.r-universe.dev
 	branch = HEAD
+[submodule "dbMatrix"]
+	path = dbMatrix
+	url = https://github.com/dbverse-org/dbmatrix-r
+[submodule "dbProject"]
+	path = dbProject
+	url = https://github.com/dbverse-org/dbproject-r
+[submodule "dbSpatial"]
+	path = dbSpatial
+	url = https://github.com/dbverse-org/dbspatial-r
