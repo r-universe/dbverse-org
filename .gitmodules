@@ -8,6 +8,9 @@
 [submodule "dbProject"]
 	path = dbProject
 	url = https://github.com/dbverse-org/dbproject-r
+[submodule "dbSequence"]
+	path = dbSequence
+	url = https://github.com/dbverse-org/dbSequence
 [submodule "dbSpatial"]
 	path = dbSpatial
 	url = https://github.com/dbverse-org/dbspatial-r
