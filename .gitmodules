@@ -14,3 +14,7 @@
 [submodule "dbSpatial"]
 	path = dbSpatial
 	url = https://github.com/dbverse-org/dbspatial-r
+[submodule "dbVisuals"]
+	path = dbVisuals
+	url = https://github.com/dbverse-org/dbVisuals
+	subdir = r-package
